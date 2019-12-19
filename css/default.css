@@ -830,7 +830,11 @@ properly.
 .popup-content {
    width: 60% !important;
 }
-
+a.close {
+   text-align: right;
+   padding-right: 4px;
+   font-size: 28px;
+}
 
 /* width */
 ::-webkit-scrollbar {

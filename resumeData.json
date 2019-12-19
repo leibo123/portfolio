@@ -88,7 +88,7 @@
         "category":"a look at all 400 Galar region pokemon",
         "image":"galarpokemon.png",
         "url":"https://galar-pokemon.herokuapp.com/",
-        "contentKey": "abot"
+        "contentKey": "galarpokemon"
       },
       {
         "title": "Abot Website",
@@ -102,21 +102,21 @@
         "category":"Summer 2017 research",
         "image":"umreu.PNG",
         "url":"http://www.cs.miami.edu/reu-cfs/2017/posters/CooperLeiPoster.pdf",
-        "contentKey": "abot"
+        "contentKey": "placeholder"
       },
       {
         "title":"Origami",
         "category":"favorite folds",
         "image":"origami.jpg",
         "url":"http://www.leonlei.com",
-        "contentKey": "abot"
+        "contentKey": "placeholder"
       },
       {
         "title":"Hack@Brown",
         "category":"Hack@Brown stuffs",
         "image":"hab2018.jpg",
         "url":"https://devpost.com/software/swipedaddy-sxn09g",
-        "contentKey": "abot"
+        "contentKey": "placeholder"
       }
     ]
   },
