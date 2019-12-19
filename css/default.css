@@ -468,7 +468,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: rgb(255, 79, 132);
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -821,6 +821,7 @@ properly.
 
 .modal {
    padding: 2em;
+   padding-top: 0;
 }
 .popup-overlay {
    overflow-y: scroll;
@@ -830,10 +831,13 @@ properly.
 .popup-content {
    width: 60% !important;
 }
-a.close {
+button.close {
    text-align: right;
-   padding-right: 4px;
    font-size: 28px;
+}
+#closemodal {
+   text-align: right;
+   margin-bottom: -18px !important;
 }
 
 /* width */
