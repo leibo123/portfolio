@@ -820,8 +820,9 @@ properly.
 }
 
 .modal {
-   padding: 2em;
+   padding: 2.5em;
    padding-top: 0;
+   text-align: justify;
 }
 .popup-overlay {
    overflow-y: scroll;
@@ -839,6 +840,33 @@ button.close {
    text-align: right;
    margin-bottom: -18px !important;
 }
+
+.popup-content h3 {
+   margin-bottom: 1em !important;
+}
+
+.image-wrapper {
+   text-align: center;
+}
+.modal a:hover {
+   color: rgb(42, 213, 219) !important;
+}
+.modal a {
+   display: inline !important;
+}
+#galarpokemon-wrapper img {
+   width: 70%;
+   height: auto;
+}
+#abot-wrapper img {
+   width: 70%;
+   height: auto;
+}
+#umreu-wrapper img {
+   width: 70%;
+   height: auto;
+}
+
 
 /* width */
 ::-webkit-scrollbar {

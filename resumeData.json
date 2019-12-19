@@ -84,14 +84,14 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Galar Pokemon",
-        "category":"a look at all 400 Galar region pokemon",
+        "title":"Galar Pokemon App",
+        "category":"Introducing all 400 pokemon in the new Galar Region.",
         "image":"galarpokemon.png",
         "url":"https://galar-pokemon.herokuapp.com/",
         "contentKey": "galarpokemon"
       },
       {
-        "title": "Abot Website",
+        "title": "Abot Database Website",
         "category": "How human-like does your robot look?",
         "image":"abot.png",
         "url": "http://www.abotdatabase.info",
@@ -102,14 +102,7 @@
         "category":"Summer 2017 research",
         "image":"umreu.PNG",
         "url":"http://www.cs.miami.edu/reu-cfs/2017/posters/CooperLeiPoster.pdf",
-        "contentKey": "placeholder"
-      },
-      {
-        "title":"Origami",
-        "category":"favorite folds",
-        "image":"origami.jpg",
-        "url":"http://www.leonlei.com",
-        "contentKey": "placeholder"
+        "contentKey": "umreu"
       },
       {
         "title":"Hack@Brown",
