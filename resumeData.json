@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am a capable and responsive worker who is deeply invested in producing high quality results. My skillset is diverse but focused, and I can pick up new skills quickly and effectively.",
     "education":[
       {
         "school":"Brown University",
@@ -87,25 +87,36 @@
         "title":"Galar Pokemon",
         "category":"a look at all 400 Galar region pokemon",
         "image":"galarpokemon.png",
-        "url":"https://galar-pokemon.herokuapp.com/"
+        "url":"https://galar-pokemon.herokuapp.com/",
+        "contentKey": "abot"
+      },
+      {
+        "title": "Abot Website",
+        "category": "How human-like does your robot look?",
+        "image":"abot.png",
+        "url": "http://www.abotdatabase.info",
+        "contentKey": "abot"
       },
       {
         "title":"University of Miami REU",
         "category":"Summer 2017 research",
         "image":"umreu.PNG",
-        "url":"http://www.cs.miami.edu/reu-cfs/2017/posters/CooperLeiPoster.pdf"
+        "url":"http://www.cs.miami.edu/reu-cfs/2017/posters/CooperLeiPoster.pdf",
+        "contentKey": "abot"
       },
       {
         "title":"Origami",
         "category":"favorite folds",
         "image":"origami.jpg",
-        "url":"http://www.leonlei.com"
+        "url":"http://www.leonlei.com",
+        "contentKey": "abot"
       },
       {
         "title":"Hack@Brown",
         "category":"Hack@Brown stuffs",
         "image":"hab2018.jpg",
-        "url":"https://devpost.com/software/swipedaddy-sxn09g"
+        "url":"https://devpost.com/software/swipedaddy-sxn09g",
+        "contentKey": "abot"
       }
     ]
   },
