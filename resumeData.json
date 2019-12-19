@@ -91,7 +91,7 @@
         "contentKey": "galarpokemon"
       },
       {
-        "title": "Abot Database Website",
+        "title": "ABOT Database Website",
         "category": "How human-like does your robot look?",
         "image":"abot.png",
         "url": "http://www.abotdatabase.info",
@@ -105,11 +105,11 @@
         "contentKey": "umreu"
       },
       {
-        "title":"Hack@Brown",
-        "category":"Hack@Brown stuffs",
-        "image":"hab2018.jpg",
-        "url":"https://devpost.com/software/swipedaddy-sxn09g",
-        "contentKey": "placeholder"
+        "title":"Iterative Design",
+        "category":"Redesigning and Usertesting for a startup",
+        "image":"gitstart.jpg",
+        "url":"https://www.figma.com/proto/r5GTTLw9RNO7t30d4gRBjp/GitStart?node-id=36%3A4&scaling=scale-down",
+        "contentKey": "iterativedesign"
       }
     ]
   },
