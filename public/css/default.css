@@ -163,6 +163,9 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'opensans-bold', sans-serif;
    font-weight: normal;
 }
+h3 {
+   color: rgb(255, 91, 140) !important;
+}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
@@ -465,7 +468,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: rgb(255, 79, 132);
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -811,3 +814,76 @@ properly.
    padding-right: 15px !important;
    margin: 2px !important;
 }
+
+.banner-text h3 {
+   text-shadow: 1px 1px 1px #555555 !important;
+}
+
+.modal {
+   padding: 2.5em;
+   padding-top: 0;
+   text-align: justify;
+}
+.popup-overlay {
+   overflow-y: scroll;
+   padding-top: 5%;
+   padding-bottom: 5%;
+}
+.popup-content {
+   width: 60% !important;
+}
+button.close {
+   text-align: right;
+   font-size: 28px;
+}
+#closemodal {
+   text-align: right;
+   margin-bottom: -18px !important;
+}
+
+.popup-content h3 {
+   margin-bottom: 1em !important;
+}
+
+.image-wrapper {
+   text-align: center;
+}
+.modal a:hover {
+   color: rgb(42, 213, 219) !important;
+}
+.modal a {
+   display: inline !important;
+}
+#galarpokemon-wrapper img {
+   width: 70%;
+   height: auto;
+}
+#abot-wrapper img {
+   width: 70%;
+   height: auto;
+}
+#umreu-wrapper img {
+   width: 70%;
+   height: auto;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+   width: 10px;
+ }
+ 
+ /* Track */
+ ::-webkit-scrollbar-track {
+   background: #f1f1f1;
+ }
+ 
+ /* Handle */
+ ::-webkit-scrollbar-thumb {
+   background: #888;
+ }
+ 
+ /* Handle on hover */
+ ::-webkit-scrollbar-thumb:hover {
+   background: #555;
+ }
