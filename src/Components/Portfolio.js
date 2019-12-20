@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
 import ControlledPopup from "./ControlledPopup"
-import {GalarPokemonProject, AbotProject, PlaceholderProject, MiamiResearchProject} from './Projects';
+import {GalarPokemonProject, AbotProject, PlaceholderProject, MiamiResearchProject, IterativeDesignProject} from './Projects';
 
-const content = {"abot": AbotProject, "galarpokemon": GalarPokemonProject, "umreu": MiamiResearchProject, "placeholder": PlaceholderProject}
+const content = {"abot": AbotProject, "galarpokemon": GalarPokemonProject, "umreu": MiamiResearchProject, "iterativedesign": IterativeDesignProject, "placeholder": PlaceholderProject}
 class Portfolio extends Component {
 
   render() {
