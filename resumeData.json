@@ -41,7 +41,7 @@
         "school":"Brown University",
         "degree":"Concurrent Masters and Sc.B. in Computer Science",
         "graduated":"May 2020",
-        "description":"Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision, Interactive Computer Graphics, Data Science, Collaborative Robotics, Software Engineering, Creating Modern Web Apps, Design/Impl. of Programming Languages, Design/Analysis of Algorithms, Discrete Structures/Probability, Statistics, Linear Algebra, Computer Systems, Game Theory and Economics"
+        "description":"Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision, Interactive Computer Graphics, Data Science, Collaborative Robotics, Software Engineering, Creating Modern Web Apps, UI/UX, Design/Impl. of Programming Languages, Design/Analysis of Algorithms, Discrete Structures/Probability, Statistics, Linear Algebra, Computer Systems, Game Theory and Economics, Biotechnology in Medicine"
       }
     ],
     "work":[
@@ -49,13 +49,19 @@
         "company":"Brown University CS Department",
         "title":"Head Teaching Assistant",
         "years":"Fall 2019",
-        "description": "For CS1410 - Artificial Intelligence. Worked closely with the professor and lead 18 TAs in updating and running the course. Played a significant role in handling course logistics and helped students at office hours and on Piazza with conceptual questions and debugging."
+        "description": "For CS1410 Artificial Intelligence. Worked closely with the professor and lead 18 TAs in updating and running the course. Played a significant role in handling course logistics and helped students at office hours and on Piazza with conceptual questions and debugging."
       },
       {
         "company":"Amazon",
         "title":"SDE Intern",
         "years":"Summer 2019",
         "description":"Drove the development of a new debugging tool to support quick access to API data from shipping and tracking services, making it easier and at least 3x faster for engineers to get the data they need. Implemented, reviewed, and shipped code in Java and JavaScript, followed scrum agile methodology. Delivered results in a timely fashion and helped with a separate project (Video on Delivery) afterwards."
+      },
+      {
+        "company":"Brown University CS Department",
+        "title":"Undergraduate Teaching Assistant",
+        "years":"Fall 2018, Spring 2019",
+        "description": "For CS1410 Artificial Intelligence, CS1320 Creating Modern Web Apps. Worked closely with the other TAs on course development and helped students at office hours and on Piazza with conceptual questions and debugging."
       },
       {
         "company":"Roche (Genentech)",
@@ -73,7 +79,7 @@
     "skills":[
       {
         "name":"Java",
-        "level":"75%"
+        "level":"80%"
       },
       {
         "name":"Python",
@@ -85,7 +91,7 @@
       },
       {
         "name":"React",
-        "level": "65%"
+        "level": "75%"
       },
       {
         "name": "HTML/CSS/JavaScript",
