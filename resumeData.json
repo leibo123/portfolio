@@ -115,14 +115,14 @@
       },
       {
         "title":"University of Miami REU",
-        "category":"Summer 2017 research",
+        "category":"My research experience from summer 2017.",
         "image":"umreu.PNG",
         "url":"http://www.cs.miami.edu/reu-cfs/2017/posters/CooperLeiPoster.pdf",
         "contentKey": "umreu"
       },
       {
         "title":"Iterative Design",
-        "category":"Redesigning and Usertesting for a startup",
+        "category":"Redesigning and user Testing for a startup.",
         "image":"gitstart.jpg",
         "url":"https://www.figma.com/proto/r5GTTLw9RNO7t30d4gRBjp/GitStart?node-id=36%3A4&scaling=scale-down",
         "contentKey": "iterativedesign"
