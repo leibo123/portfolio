@@ -2,9 +2,9 @@
   "main": {
     "name":"Leon Lei",
     "occupation":"Student at Brown University",
-    "description":"Lorem ipsum description stuff",
+    "description":"studying Computer Science",
     "image":"profilepic.png",
-    "bio":"Lorem ipsum bio stuff",
+    "bio":"I am presently studying Computer Science at Brown University and expect to graduate May 2020. I am currently on a 4 year Concurrent Masters and Sc.B. Program in CS. My main interests lie in software development, data science, and computer graphics. I like to challenge myself by taking on a rigorous load of coursework each semester in addition to the various activities and extracurriculars that I participate in.",
     "contactmessage":"Feel free to reach out to me!",
     "email": "leon_lei@brown.edu",
     "phone": "845-536-0401",
